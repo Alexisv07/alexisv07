@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-    <img width="200" src="https://media.licdn.com/dms/image/D4E16AQGhv5rr6iovdA/profile-displaybackgroundimage-shrink_350_1400/0/1716933165984?e=1723075200&v=beta&t=aRiZBlVFH74oo-cpd2C3ePhaCX3dmv-Wu0FNJNcvOEs">
+    <img width="1000" src="https://media.licdn.com/dms/image/D4E16AQGhv5rr6iovdA/profile-displaybackgroundimage-shrink_350_1400/0/1716933165984?e=1723075200&v=beta&t=aRiZBlVFH74oo-cpd2C3ePhaCX3dmv-Wu0FNJNcvOEs">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
