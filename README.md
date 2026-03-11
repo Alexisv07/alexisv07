@@ -156,7 +156,7 @@ Actualmente cursando **Tecnología en Desarrollo de Software** en el ITM (Medell
 
 <p align="center">
   <a href="https://github.com/Alexisv07" target="_blank">
-    <img align="center" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="GitHub" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg)" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexis-valencia/" target="_blank">
     <img align="center" alt="LinkedIn" width="24px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
