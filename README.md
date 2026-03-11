@@ -84,7 +84,7 @@ Actualmente cursando **Tecnología en Desarrollo de Software** en el ITM (Medell
 
 ---
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> CMS & E-commerce
+## <img src="https://media4.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="50px" height="50px"> CMS & E-commerce
 
 <p align="left">
     <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
@@ -96,34 +96,39 @@ Actualmente cursando **Tecnología en Desarrollo de Software** en el ITM (Medell
 </p>
 
 ---
-
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Cloud
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ3NTJobzA3c256aWg5cmNvNHdwdXB0NTMyZWR2MmR4M3dheGF1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTeLyRjYBcZRcXfyn5/giphy.gif" width="50px" height="50px"> Cloud
 
 <p align="left">
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
     </a>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> IDEs
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"></img> IDEs
 
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vs code" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg" alt="vs code" width="40" height="40"/>
     </a>
     <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="visualstudio" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Light.svg" alt="visualstudio" width="40" height="40"/>
     </a>
-    <a href="https://idx.google.com/?lfhs=2" target="_blank" rel="noreferrer">
+    <a href="https://idx.google.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Alexisv07/icons/blob/main/Projec%20IDX.svg" alt="idx" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Light.svg" alt="firebase" width="40" height="40"/>
     </a>
 </p>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Mis Estadísticas
+## <img src="https://media2.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="40px" height="40px"> Mis Estadísticas
 
 <table align="center">
 <tr border="none">
