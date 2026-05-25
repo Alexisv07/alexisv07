@@ -15,7 +15,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-Web Developer con más de 1 año de experiencia desarrollando e implementando sitios web con **WordPress** y **Elementor Pro**. Especializado en **Front-End** (HTML5, CSS3, JavaScript) y **Back-End** con PHP. Enfoque en **SEO técnico**, optimización de rendimiento (Core Web Vitals), integración de APIs, mejora de conversión y buenas prácticas de desarrollo web.
+WordPress Developer y Front-End Developer con más de 2 años de experiencia desarrollando e implementando
+sitios web en equipos multidisciplinarios. Especializado en WordPress, Elementor Pro, HTML5, CSS3, JavaScript y
+PHP, con enfoque en diseño responsivo, SEO técnico, optimización de rendimiento (Core Web Vitals) e integración
+de APIs REST. Conocimientos en arquitectura cloud con AWS (EC2, RDS, IAM) y contenerización con Docker.
+Comprometido con la entrega de soluciones web de alto rendimiento orientadas a resultados de negocio.
 
 Actualmente cursando **Tecnología en Desarrollo de Software** en el ITM (Medellín, Colombia). Apasionado por crear interfaces optimizadas y atractivas, busco seguir creciendo hacia un rol de **Full Stack Developer**.
 
